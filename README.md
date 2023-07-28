@@ -32,11 +32,7 @@ This will print the information about the YouTube video to the console.
 
 ## Other Projects 🔗
 
-This project is part of a series of scraping projects. The other projects in the series are:
-
-* [Web Scraper](https://github.com/bard/web-scraper) 🌐
-* [Twitter Scraper](https://github.com/bard/twitter-scraper) 🐦
-* [Reddit Scraper](https://github.com/bard/reddit-scraper) 💡
+This project is part of a series of scraping projects. The other projects in the series will be added one by one
 
 ## License 📝
 
